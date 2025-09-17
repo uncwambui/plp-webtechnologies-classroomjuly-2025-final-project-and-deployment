@@ -18,7 +18,7 @@ It showcases travel destinations, a photo gallery, and contact information in a 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 darna-travels/
 │
 ├── index.html # Home page
@@ -42,14 +42,14 @@ darna-travels/
 
 
 
-## 📸 Preview
+##  Preview
 - Hero section with brand logo: **<span style="color:#ff9800">Darna</span> Travels**
 - Travel gallery with responsive grid
 - Clean footer fixed at bottom
 
 ---
 
-## 📜 License
+##  License
 This project is open-source and free to use for learning purposes.
 
 
