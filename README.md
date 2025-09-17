@@ -1,90 +1,57 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Darna Travels Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+Darna Travels is a responsive multi-page travel website built with **HTML5, CSS3, and JavaScript**.  
+It showcases travel destinations, a photo gallery, and contact information in a clean, professional layout.
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
-
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+## ✨ Features
+- **Multi-page design**: Home, About, Destinations, Gallery, and Contact pages
+- **Reusable components**: Shared header and footer across all pages
+- **Responsive layout**: Works on desktop, tablet, and mobile devices
+- **Interactive elements**:
+  - Navigation menu with hover effects
+  - Contact form with validation
+  - Hero section with call-to-action
+- **Modern UI**: Clean typography, bright colors, and smooth spacing
+- **Footer fixed at bottom**: Consistent branding on all pages
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 📂 Project Structure
+darna-travels/
+│
+├── index.html # Home page
+├── about.html # About page
+├── destinations.html # Destinations page
+├── gallery.html # Gallery page
+├── contact.html # Contact page
+│
+├── header.html # Shared header
+├── footer.html # Shared footer
+│
+├── css/
+│ └── style.css # Stylesheet
+│
+├── js/
+│ └── script.js # JavaScript file
+│
+├── images/ # Image assets (hero, gallery, etc.)
+│
+└── README.md # Project documentation
 
-Before deployment, refactor your project to follow production-friendly practices:
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+## 📸 Preview
+- Hero section with brand logo: **<span style="color:#ff9800">Darna</span> Travels**
+- Travel gallery with responsive grid
+- Clean footer fixed at bottom
 
 ---
 
-## Deliverables
+## 📜 License
+This project is open-source and free to use for learning purposes.
 
-1. A GitHub repository containing:
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+## Deployment URL
+https://uncwambui.github.io/plp-webtechnologies-classroomjuly-2025-final-project-and-deployment/
